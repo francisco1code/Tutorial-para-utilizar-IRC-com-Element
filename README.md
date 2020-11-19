@@ -12,7 +12,7 @@ Diferentimente dos Aplicativos de mensagens típicos onde outras empresas são d
 
 ## Instalação
 Existe 3 versoes do element 
- - Versaõ online utilizando o seu proprio navegador
+ - Versaõ online utilizando o seu proprio [navegador](https://github.com/francisco1code/Tutorial-para-utilizar-IRC-com-Element/blob/master/versao_web.md)
  - Mobile
  Encontrado nas plataformas App Store e Google play
  - Desktop
