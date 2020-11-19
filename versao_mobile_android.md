@@ -24,13 +24,22 @@
 ![img](https://raw.githubusercontent.com/francisco1code/Tutorial-para-utilizar-IRC-com-Element/master/images/mob-g.png)
 
 **Agora click no icone "#+" no lado inferior direito, nesse exemplo iremos procurar a comunidade debian-bsb, que está localizada no servidor OFTC**
+
+
 ![img](https://raw.githubusercontent.com/francisco1code/Tutorial-para-utilizar-IRC-com-Element/master/images/mob-h.png)
 
 **Para mudar de sevidor click nos 3 pontinhos no lado superior direito e selecione a opção changes network**
 
+
 ![img](https://raw.githubusercontent.com/francisco1code/Tutorial-para-utilizar-IRC-com-Element/master/images/mob-i.png)
+
+
+
 **Agora selecione a sua opção, nesse caso o servidor OFTC**
+
+
 ![img](https://raw.githubusercontent.com/francisco1code/Tutorial-para-utilizar-IRC-com-Element/master/images/mob-j.png)
+
 
 **E por fim é só entrar no grupo desejado**
 
